@@ -1,0 +1,7 @@
+@font-face {
+  src: url(fontz/Nunito-Regular.ttf);
+  font-family: nunito;
+}
+body {
+  font-family: nunito;
+}
